@@ -1,0 +1,14 @@
+torna`do
+pyttsx3
+python-dotenv
+wikipedia
+pyjokes
+datetime
+requests
+pywhatkit
+Pyaudio
+speechrecognition
+numpy
+langchain
+google-generativeai
+langchain_google_genai
